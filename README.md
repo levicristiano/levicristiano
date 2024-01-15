@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levi Cristiano</h1>
 <h3 align="center">Data science and finance enthusiast. Economist by vocation</h3>
 
-- 🔭 I’m currently working on data analysis and visualization [Vale S/A](https://www.vale.com/pt/reparacao)
+- 🔭 I’m currently working on data analysis and visualization 
 
 - 🌱 I’m currently learning **Python and Macro Research**
 
