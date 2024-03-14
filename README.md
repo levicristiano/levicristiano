@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Rstudio, Statistic Economy, and Finance**
 
-- 📫 How to reach me **levicristiano2@gmail.com**
+- 📫 How to reach me **levi.cristiano@blubrain.tech**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/levicristiano/](https://www.linkedin.com/in/levicristiano/)
 
